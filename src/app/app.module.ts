@@ -15,6 +15,6 @@ import { ChartsModule } from 'ng2-charts/lib/charts.module';
     ChartsModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent]  
 })
 export class AppModule { }
